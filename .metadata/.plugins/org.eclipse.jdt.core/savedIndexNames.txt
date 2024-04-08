@@ -4,7 +4,6 @@ INDEX VERSION 1.134+C:\Practice Exercise\Java Hands-on Mastery-S1\java-core\.met
 2135652934.index
 1788023217.index
 1865797976.index
-3745993724.index
 2770880066.index
 139217616.index
 3863096316.index
